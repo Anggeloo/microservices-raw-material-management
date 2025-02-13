@@ -1,1 +1,0 @@
-# microservices-raw-material-management
